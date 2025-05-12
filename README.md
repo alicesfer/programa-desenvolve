@@ -17,8 +17,9 @@ Repositório dedicado aos projetos e atividades desenvolvidos durante o **Progra
 - Como armazenar dados e quais os tipos de armazenamento
 - Introdução e apresentação do Banco de Dados
 - Transformando dados em ações
+---
 
-<p align="center">
-  Feito com ❤️ por Alice Fernandes - Participante do Programa Desenvolve 2025
-</p> 
+<div align="center">
+Feito com ❤️ por Alice Fernandes
+</div>
 
