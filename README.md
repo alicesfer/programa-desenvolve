@@ -28,6 +28,6 @@ O [Programa Desenvolve](https://www.grupoboticario.com.br/desenvolve) é uma ini
 - Transformando dados em ações
 
 <p align="center">
-  Feito com ❤️ por [Alice Fernandes] - Participante do Programa Desenvolve 2025
+  Feito com ❤️ por Alice Fernandes - Participante do Programa Desenvolve 2025
 </p> 
 
