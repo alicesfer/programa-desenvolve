@@ -21,7 +21,7 @@ Repositório dedicado aos projetos e atividades desenvolvidos durante o **Progra
 
 ## 👩🏻‍💻 Trilha Full Stack 
 
-✍🏻 (.Modulo-01.md)
+✍🏻 ([.Modulo-01.md](https://github.com/alicesfer/programa-desenvolve/blob/main/Modulo-1))
 
 <div align="center">
 Feito com ❤️ por Alice Fernandes
