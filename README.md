@@ -17,13 +17,15 @@ Repositório dedicado aos projetos e atividades desenvolvidos durante o **Progra
 - Como armazenar dados e quais os tipos de armazenamento
 - Introdução e apresentação do Banco de Dados
 - Transformando dados em ações
+
+## 👩🏻‍💻 Trilha Full Stack
+
+- [Módulo 1](https://github.com/alicesfer/programa-desenvolve/blob/main/Modulo-1)
 ---
 
-## 👩🏻‍💻 Trilha Full Stack 
 
-✍🏻 ([Módulo 1](https://github.com/alicesfer/programa-desenvolve/blob/main/Modulo-1))
 
 <div align="center">
-Feito com ❤️ por Alice Fernandes
+Desenvolvido com muito 💜 por Alice Fernandes
 </div>
 
