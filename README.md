@@ -19,6 +19,10 @@ Repositório dedicado aos projetos e atividades desenvolvidos durante o **Progra
 - Transformando dados em ações
 ---
 
+## 👩🏻‍💻 Trilha Full Stack 
+
+✍🏻 (.Modulo-01.md)
+
 <div align="center">
 Feito com ❤️ por Alice Fernandes
 </div>
