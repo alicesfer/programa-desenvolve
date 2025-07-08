@@ -1,6 +1,6 @@
-# Curso de Desenvolvimento Web - Anotações
+# Trilha Full Stack - Grupo Boticário
 
-Repositório com as anotações e materiais das aulas do curso de Desenvolvimento Web.
+Repositório com as anotações e materiais das aulas do curso de Desenvolvimento Full Stack 
 
 ## 📚 Aulas
 
@@ -13,6 +13,4 @@ Repositório com as anotações e materiais das aulas do curso de Desenvolviment
 - [30/06 - Tutoria](#)
 - [01/07 - O Terminal](#)
 - [02/07 - Git e GitHub](#)
-- [07/07 - Tutoria](#) 
-
-## 📂 Estrutura do Repositório
+- [07/07 - Tutoria](#)
