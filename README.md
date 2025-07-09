@@ -20,7 +20,7 @@ Repositório dedicado aos projetos e atividades desenvolvidos durante o **Progra
 
 ## 👩🏻‍💻 Trilha Full Stack
 
-- [Módulo 1](https://github.com/alicesfer/programa-desenvolve/blob/main/modulo-01.md)
+- [Módulo 1]([https://github.com/alicesfer/programa-desenvolve/blob/main/modulo-01.md](https://github.com/alicesfer/programa-desenvolve/tree/main/modulo-01))
 ---
 
 
